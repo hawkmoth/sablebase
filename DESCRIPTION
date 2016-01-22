@@ -1,0 +1,10 @@
+Package: SableBase
+Version: 1.0.0
+Date: 2013-04-18
+Title: Sable Systems Basic Functions
+Author@R: c(person("Thomas", "Foerster", email="foerster@sablesys.com"))
+Author: Thomas Foerster <foerster@sablesys.com>
+Maintainer: Thomas Foerster <foerster@sablesys.com>
+Depends: R(>= 1.8.0)
+Description: The package contains basic functions to work with ExpeData files in R.
+License: GPL-2

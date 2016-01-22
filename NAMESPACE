@@ -1,0 +1,7 @@
+# Only one public function right now
+export(read.sscf)
+
+# overwritten "generic functions" (S3 class style)
+S3method(summary, SSCFFile)
+S3method("$", SSCFFile)
+
